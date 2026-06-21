@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chen shanxiong Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chen shanxiong Academic Pages(陈善雄的个人学术网站)"
 author_profile: true
 redirect_from: 
   - /about/
