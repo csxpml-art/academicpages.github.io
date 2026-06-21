@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+陈善雄，任职西南大学计算机与信息科学学院，教授，硕士生导师，计算机专业博士，西南大学计算机与信息科学学院数据库与人工智能实验室主任，澳大利亚南澳大学访问学者。中国计算机学会杰出会员，中国图象图形学学会高级会员，中国图象图形学学会专业委员会委员，重庆市认知科学学会理事，重庆市软件产业专家顾问委员会委员，重庆市中小企业专家委员会专家，普通高等学校本科教育教学评估专家，中国博士后基金评审专家，中国知网高被引学者。主持和参与国家自然科学基金、重庆市自然科学基金重点项目、863项目等30余项课题，作为项目负责人与国家电网，长安汽车，重庆烟草等企业合作进行智能系统设计，累计经费500余万。目前在《计算机学报》，《自动化学报》，《Applied Intelligence》等国内外期刊和会议上发表论文120余篇，其中EI/SCI论文120余篇。申请国家发明专利40余项，计算机软件著作权20余件，科学出版社出版专著2部，在国际国内学术会议发表主题报告20余次。主要从事数据挖掘 、模式识别方面的研究，积极推动人工智能技术在文化遗产保护，医疗行业的应用
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
